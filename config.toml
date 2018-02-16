@@ -1,9 +1,10 @@
-baseURL = "http://cloudevents.org"
+baseURL = "http://barkerd427.github.io/cloudevents-org"
 languageCode = "en-us"
 title = "CloudEvents"
 theme = "hugo-theme-lean-launch-page"
 canonifyurls = true
 paginate = 3
+publishDir = "docs"
 
 googleAnalytics = ""
 
